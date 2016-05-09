@@ -6,3 +6,4 @@ Add1
 Add2
 Creating a new branch is quick.
 dev2
+Creating a new branch is quick AND simple.
